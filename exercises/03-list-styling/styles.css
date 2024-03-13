@@ -12,3 +12,11 @@ body {
 	padding: 120px;
 	width: 300px;
 }
+
+.cocacola li {
+	list-style-type: lower-alpha;
+}
+
+.pepsi li {
+	list-style-type: disc;
+}
